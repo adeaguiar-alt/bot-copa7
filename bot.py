@@ -480,4 +480,4 @@ async def twoff(interaction: discord.Interaction):
     await interaction.response.send_message("Canal trancado com sucesso!", ephemeral=True)
 
 
-bot.run("MTU3NTQ5MzE2MTU1ODQ4MzA4NQ.G0tvmc.f9-EpNkZP4lQa1DKxFtd7bmdPoUqpTqIpD3Ins")
+bot.run("MTU3NTQ5MzE2MTU1ODQ4MzA4NQGDgimmZeCJWivfN0nnKXKJ7ItB8ID1xOnd2BBXWnH9Y")
